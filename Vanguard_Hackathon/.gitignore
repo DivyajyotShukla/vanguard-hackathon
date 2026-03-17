@@ -1,0 +1,30 @@
+# Vivado & Xilinx Junk (The most important part)
+*.log
+*.jou
+*.str
+*.os
+.Xil/
+vivado/**/*.cache/
+vivado/**/*.hw/
+vivado/**/*.ip_user_files/
+vivado/**/*.runs/
+vivado/**/*.sim/
+vivado/**/*.gen/
+vivado/**/.Xil/
+
+# Antigravity & AI Agent junk
+.agents/workthroughs/
+.agents/plans/
+
+# Large Radar Data & Bitstreams
+data/*
+*.bit
+*.hwh
+*.xsa
+
+# AI and Agent Metadata
+.agents/
+.aiseque/
+**/aiseque/
+*.md.agent
+.agent_history/
