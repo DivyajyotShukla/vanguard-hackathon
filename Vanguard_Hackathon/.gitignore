@@ -27,4 +27,5 @@ data/*
 .aiseque/
 **/aiseque/
 *.md.agent
-.agent_history/
+.agent_history/__pycache__/  
+aesa-radar/  
